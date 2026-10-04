@@ -1,0 +1,25 @@
+img{
+    padding: 0;
+    margin: 0;
+}
+.navbar ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar li{
+    float: none;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    background-color: indigo;
+    padding-left: 10px;
+    line-height: 40px;
+    display: block;
+    float:left;
+}
+.navbar a:hover{
+    background-color: violet;
+}
